@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 Me to
-=======
 Added new line in remote repository
->>>>>>> 180457b415ab63e6267fb09539bbbd74cd182e17
+
